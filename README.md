@@ -1,1 +1,1 @@
-# ShrewdTransactionsDiscordBot
+# SweetDiscountsDiscordBot
